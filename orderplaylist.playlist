@@ -1,0 +1,7 @@
+<Playlist Version="1.0">
+<Add Test="Sel_MSTest_1.GoogSelMstest.LogIn_UserName_Gmail_ConectToMailBox_Test" />
+<Add Test="Sel_MSTest_1.GoogSelMstest.LogIn_PassWord_Gmail_ConectToMailBox_Test" />
+<Add Test="Sel_MSTest_1.GoogSelMstest.Email_Compose_Gmail_Test" />
+<Add Test="Sel_MSTest_1.GoogSelMstest.Email_Validate_RecievedMail_Test" />
+<Add Test="Sel_MSTest_1.GoogSelMstest.Email_LogOut_Test" />
+</Playlist>
